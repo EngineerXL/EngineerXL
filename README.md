@@ -1,4 +1,13 @@
-### Hi there 👋
+# Maxim Inyutin
+
+![](https://raw.githubusercontent.com/EngineerXL/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/EngineerXL/cf-stats/main/output/light_card.svg)
+
+<!--
+Когда-то тут будет ещё что-то красивое!
+![](https://raw.githubusercontent.com/EngineerXL/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/EngineerXL/cf-stats/main/output/rating.svg)
+-->
 
 <!--
 **EngineerXL/EngineerXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
