@@ -1,7 +1,12 @@
 # Maxim Inyutin
 
+### Codeforces
+
 ![](https://raw.githubusercontent.com/EngineerXL/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/EngineerXL/cf-stats/main/output/light_card.svg)
+
+### Ray Tracing in CUDA
+https://user-images.githubusercontent.com/37447286/212838085-e816e95f-2a0a-4f3d-8ada-60ea73e4c01b.mp4
 
 <!--
 Когда-то тут будет ещё что-то красивое!
